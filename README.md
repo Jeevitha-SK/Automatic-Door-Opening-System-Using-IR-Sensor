@@ -46,4 +46,4 @@ The main objective of this project is to:
 The project successfully demonstrates an economical automatic door system that provides convenience, improves efficiency, and serves as a practical automation solution.
 
 ## Author
-Jeevitha Nivendra
+Jeevitha Subramaniyam
